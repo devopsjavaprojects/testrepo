@@ -1,2 +1,3 @@
 Hi guys
-good morning
+good mornin
+i am learning git.
